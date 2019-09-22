@@ -11,7 +11,6 @@ const externals = (config) => {
     config.externals = {
         react: 'React',
         'react-dom': 'ReactDOM',
-        'react-window': 'react-window'
     }
     return config;
 }
